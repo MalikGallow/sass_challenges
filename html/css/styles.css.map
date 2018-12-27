@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI;EACA,gBAAgB,ECEF,MAAM",
+"sources": ["../sass/partials/_base.scss","../sass/partials/_variables.scss"],
+"names": [],
+"file": "styles.css"
+}
